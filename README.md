@@ -1,4 +1,4 @@
-[![Image](https://images.unsplash.com/photo-1583146191066-dd148554b72b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800 )]
+![alt text](https://images.unsplash.com/photo-1583146191066-dd148554b72b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800 )
 # AZ-104: Microsoft Azure Administrator Training
 
 ## About
