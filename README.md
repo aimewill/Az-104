@@ -1,4 +1,4 @@
-[![Image](https://images.unsplash.com/photo-1583146191066-dd148554b72b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800)]
+[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
 # AZ-104: Microsoft Azure Administrator Training
 
 ## About
